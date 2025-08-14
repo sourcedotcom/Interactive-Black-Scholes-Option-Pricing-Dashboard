@@ -143,7 +143,7 @@ def plot_heatmap(bs_model, spot_range, vol_range, strike):
 
 # Sidebar for User Inputs
 with st.sidebar:
-    st.title("📊 Black-Scholes Model")
+    st.title("🌎 Black-Scholes Model")
 
     current_price = st.number_input("Current Asset Price", value=100.0)
     strike = st.number_input("Strike Price", value=100.0)
