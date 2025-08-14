@@ -41,6 +41,6 @@
 
     The sensitivity of an option’s price to changes in underlying parameters (Greeks)
 
+    The shape of pricing and Greek curves
 
-The shape of pricing and Greek curves
 
