@@ -1,0 +1,9 @@
+[theme]
+primaryColor = "#4CAF50"          # Fresh green for highlights
+backgroundColor = "#1E1E2F"       # Deep blue-gray for main background
+secondaryBackgroundColor = "#2C2C3A"  # Slightly lighter for panels/sidebars
+textColor = "#FFFFFF"             # White text
+font = "sans serif"
+
+[server]
+enableStaticServing = true
